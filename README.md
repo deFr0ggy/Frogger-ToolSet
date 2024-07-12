@@ -26,15 +26,15 @@ All you need is to provide the following in order for the tools to work properly
 
 Following are the currently supported tools. 
 
-1. Postman Search - Searching for exposed APIs.
-2. Swagger Search - Searching for exposed Swagger Files. 
-3. Shodan - Well, you know that! 
-4. S3 Digger - Searching for exposed S3 buckets.
-5. FTP Indexer - Searching for exposed FTP servers/files.
-6. Mamont FTP Search - Searching for exposed GTP Servers/files
-7. Yandex Digger - Searching for exposed data on Yandex.
-8. Short Digger - Searching for exposed data on ShortURLs.
-9. DropBox Digger - Searching for exposed data on DropBox. 
+1. **Postman Search** - Searching for exposed APIs.
+2. **Swagger Search** - Searching for exposed Swagger Files. 
+3. **Shodan** - Well, you know that! 
+4. **S3 Digger** - Searching for exposed S3 buckets.
+5. **FTP Indexer** - Searching for exposed FTP servers/files.
+6. **Mamont FTP Search** - Searching for exposed GTP Servers/files
+7. **Yandex Digger** - Searching for exposed data on Yandex.
+8. **Short Digger** - Searching for exposed data on ShortURLs.
+9. **DropBox Digger** - Searching for exposed data on DropBox. 
 
 # Extra
 
